@@ -1,5 +1,3 @@
 venv/
-data/raw/ResaleFlatPricesBasedonRegistrationDateFromJan2015toDec2016.csv
-data/raw/ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv
-data/processed/hdb_resale_data.csv
+data/*
 
